@@ -10,8 +10,8 @@
 ```text
 ai/
  ├─ notebooks/
- │    ├─ train_element_classifier_seyoung.ipynb     # 세영용 Colab 노트북
- │    ├─ train_element_classifier_teammate.ipynb     # 팀원용 Colab 노트북
+ │    ├─ train_element_classifier_seyoung.ipynb     # 세영 Colab 노트북
+ │    ├─ train_element_classifier_teammate.ipynb     # 원하 Colab 노트북
  │
  ├─ training/
  │    ├─ dataloader.py       # fastai DataBlock, 전처리 정의
