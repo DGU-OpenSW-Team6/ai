@@ -1,0 +1,12 @@
+python==3.12.12
+fastapi==0.111.0
+uvicorn==0.30.0
+torch==2.2.0
+torchvision
+fastai==2.7.15
+albumentations==1.4.3
+scikit-learn==1.5.2
+opencv-python
+pandas
+numpy
+matplotlib

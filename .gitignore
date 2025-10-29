@@ -1,0 +1,17 @@
+# 데이터셋 / 학습 산출물
+data/
+archive/
+*.zip
+*.pth
+*.pt
+*.ckpt
+
+# 노트북 체크포인트
+.ipynb_checkpoints/
+
+# 파이썬 캐시
+__pycache__/
+*.pyc
+
+# OS/편의
+.DS_Store
