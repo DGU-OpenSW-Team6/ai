@@ -7,10 +7,11 @@
 4) 화면 단위 접근성 위험을 예측하는 모델(DNN/CNN)을 학습하는 저장소.
 
 ## 폴더 구조
+```text
 ai/
  ├─ notebooks/
- │    ├─ train_element_classifier_seyoung.ipynb     # 세영 Colab 노트북
- │    ├─ train_element_classifier_teammate.ipynb     # 원하 Colab 노트북
+ │    ├─ train_element_classifier_seyoung.ipynb     # 세영용 Colab 노트북
+ │    ├─ train_element_classifier_teammate.ipynb     # 팀원용 Colab 노트북
  │
  ├─ training/
  │    ├─ dataloader.py       # fastai DataBlock, 전처리 정의
@@ -26,6 +27,8 @@ ai/
  ├─ requirements.txt
  ├─ .gitignore
  └─ README.md   ← 본 문서
+```
+
 
 ## Colab 사용 흐름
 1. Colab에서 레포를 clone한다.
