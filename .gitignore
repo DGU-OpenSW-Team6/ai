@@ -1,6 +1,6 @@
 # 데이터셋 / 학습 산출물
 data/
-archive/
+models/
 *.zip
 *.pth
 *.pt
